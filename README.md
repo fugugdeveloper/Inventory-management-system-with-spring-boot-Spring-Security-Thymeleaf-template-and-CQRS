@@ -1,0 +1,2 @@
+# Inventory-management-system-with-spring-boot-Spring-Security-Thymeleaf-template-and-CQRS.
+Inventory Management System A robust and secure Inventory Management System built with Spring Boot, Spring Security, Thymeleaf, MongoDB, and the CQRS (Command Query Responsibility Segregation) pattern. This system efficiently handles inventory operations with a scalable NoSQL database and a clean separation of concerns between commands and queries.
